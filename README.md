@@ -7,7 +7,7 @@ Full Stack Developer
 👋 Hi there! I'm Hamza, a web developer who loves creating smooth online experiences. 💻 I enjoy adding extra touches to my projects with Adobe After Effects and Illustrator. 🔒 I'm also interested in security and do some penetration testing to keep things safe. 🔐 Currently, I'm learning more about cybersecurity to strengthen our digital defenses.
 
 * 🌍  I'm based in Karachi.
-* 🖥️  See my portfolio at [My Portfolio](http://https://hamza-portfolio-web.netlify.app/)
+* 🖥️  See my portfolio at [My Portfolio](https://hamza-portfolio-web.netlify.app/)
 * ✉️  You can contact me at [hamzaamir72007@gmail.com](mailto:hamzaamir72007@gmail.com)
 * 🧠  I'm learning Three.js and Blender
 * 🤝  I'm open to collaborating on Web Development Projects
