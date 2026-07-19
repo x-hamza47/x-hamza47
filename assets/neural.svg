@@ -22,8 +22,8 @@
   <animate attributeName="y" values="0;960;0" dur="9s" repeatCount="indefinite"/>
 </rect>
 
-<text x="30" y="38" font-family="JetBrains Mono, monospace" font-size="15" fill="#A855F7" letter-spacing="2">NEURAL SKILL MATRIX</text>
-<text x="30" y="58" font-family="JetBrains Mono, monospace" font-size="10.5" fill="#7c7c94">live capability graph &#8226; inner ring = core stack &#8226; outer ring = extended toolkit</text>
+<text x="30" y="38" font-family="JetBrains Mono, monospace" font-size="15" fill="#A855F7" letter-spacing="2">ACTIVE TECHNOLOGY NETWORK</text>
+<text x="30" y="58" font-family="JetBrains Mono, monospace" font-size="10.5" fill="#7c7c94">active modules detected &#8226; engineering &#8226; security &#8226; graphics &#8226; cloud</text>
 
 <!-- central core node -->
 <g transform="translate(500,530)">
