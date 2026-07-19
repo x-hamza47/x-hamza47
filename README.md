@@ -1,40 +1,320 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hamza Amir
-==================================================================================================================================
+<div align="center">
 
-Full Stack Developer
---------------------
+<!-- ============================================================ -->
+<!-- BOOT SEQUENCE -->
+<!-- ============================================================ -->
+<img src="./assets/boot.svg" width="100%" alt="boot sequence"/>
 
-👋 Hi there! I'm Hamza, a web developer who loves creating smooth online experiences. 💻 I enjoy adding extra touches to my projects with Adobe After Effects and Illustrator. 🔒 I'm also interested in security and do some penetration testing to keep things safe. 🔐 Currently, I'm learning more about cybersecurity to strengthen our digital defenses.
+<!-- ============================================================ -->
+<!-- HEADER -->
+<!-- ============================================================ -->
+<img src="./assets/hud.svg" width="100%" alt="header hud"/>
 
-* 🌍  I'm based in Karachi.
-* 🖥️  See my portfolio at [My Portfolio](https://hamzaamir-portfolio.web.app)
-* ✉️  You can contact me at [hamzaamir72007@gmail.com](mailto:hamzaamir72007@gmail.com)
-* 🧠  I'm learning Three.js and Blender
-* 🤝  I'm open to collaborating on Web Development Projects
-* ⚡  I'm secretly Hacker... but don't tell anyone
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Engineer;Security+Researcher;Creative+Technologist" alt="subtitle typing"/>
 
-### Skills
+<br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=x-hamza47&color=a855f7&style=flat-square&label=SIGNAL+DETECTED)
+![Followers](https://img.shields.io/github/followers/x-hamza47?style=flat-square&color=a855f7&labelColor=0a0014&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/x-hamza47?style=flat-square&color=a855f7&labelColor=0a0014&label=STARS)
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="36" height="36" alt="Framer" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+</div>
 
+<br/>
 
-### Socials
+<!-- ============================================================ -->
+<!-- VISITOR SCANNER -->
+<!-- ============================================================ -->
+<div align="center">
 
-<p align="left"> <a href="https://discord.com/users/x_hamza47" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/people/Hamza-Amir/pfbid02kVRbsVXE4Hf274HBHK7zjw4n477WBDUbHWDS5qFgBCC3RYktk1s5bLNwT9e1fuvvl/?mibextid=JRoKGi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/x-hamza47" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/x_hamza47" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/@_hamza47" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@x_hamzii47" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+## ⬡ IDENTITY VERIFICATION
 
-### Badges
+<img src="./assets/scanner.svg" width="100%" alt="visitor scanner"/>
 
-<b>My GitHub Stats</b>
+</div>
 
-<a href="http://www.github.com/x-hamza47"><img src="https://github-readme-stats.vercel.app/api?username=x-hamza47&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=444e59&icon_color=a855f7&bg_color=0f172a&hide_border=true&show_icons=true" alt="x-hamza47's GitHub stats" /></a>
+<br/>
 
-<a href="http://www.github.com/x-hamza47"><img src="https://github-readme-streak-stats.herokuapp.com/?user=x-hamza47&stroke=444e59&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=444e59&currStreakLabel=3382ed&sideNums=444e59&sideLabels=444e59&dates=444e59&hide_border=true" /></a>
+<!-- ============================================================ -->
+<!-- AI TERMINAL -->
+<!-- ============================================================ -->
+<div align="center">
 
-<a href="https://github.com/x-hamza47" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-hamza47&langs_count=10&title_color=3382ed&text_color=444e59&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## ⬡ AI TERMINAL
 
-<b>Top Repositories</b>
+<img src="./assets/terminal.svg" width="100%" alt="AI terminal"/>
 
-<div width="100%" align="center"><a href="https://github.com/x-hamza47/laravel-shop" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=x-hamza47&repo=laravel-shop&title_color=3382ed&text_color=444e59&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/x-hamza47/accessories" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=x-hamza47&repo=accessories&title_color=3382ed&text_color=444e59&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!-- DIGITAL DNA / IDENTITY -->
+<!-- ============================================================ -->
+<div align="center">
+
+## ⬡ DIGITAL DNA
+
+<img src="./assets/dna.svg" width="100%" alt="digital dna strand"/>
+
+</div>
+
+```yaml
+identity:
+  callsign: Hamza Amir
+  location: Karachi, Pakistan [PK]
+  role: Full Stack Engineer / Security Researcher
+  focus: [ Web Development, Application Security, 3D Graphics ]
+  status: ONLINE
+  clearance: DEVELOPER
+  contact: hamzaamir72007@gmail.com
+  portfolio: https://hamzaamir-portfolio.web.app
+```
+
+<br/>
+
+<!-- ============================================================ -->
+<!-- SKILL VISUALIZATION -->
+<!-- ============================================================ -->
+<div align="center">
+
+## ⬡ NEURAL SKILL MATRIX
+
+<img src="./assets/neural.svg" width="100%" alt="neural skill network"/>
+
+<br/><br/>
+
+<img src="./assets/hexagon.svg" width="100%" alt="rotating hexagon skills"/>
+
+</div>
+
+<details>
+<summary align="center"><b>⬡ EXPAND SECONDARY MODULES (badges)</b></summary>
+
+<br/>
+
+<div align="center">
+
+**Languages**
+![C](https://img.shields.io/badge/C-0a0014?style=flat-square&logo=c&logoColor=A855F7)
+![C++](https://img.shields.io/badge/C++-0a0014?style=flat-square&logo=cplusplus&logoColor=A855F7)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0014?style=flat-square&logo=typescript&logoColor=A855F7)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0014?style=flat-square&logo=javascript&logoColor=A855F7)
+![PHP](https://img.shields.io/badge/PHP-0a0014?style=flat-square&logo=php&logoColor=A855F7)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-0a0014?style=flat-square&logo=react&logoColor=A855F7)
+![Three.js](https://img.shields.io/badge/Three.js-0a0014?style=flat-square&logo=threedotjs&logoColor=A855F7)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0a0014?style=flat-square&logo=tailwindcss&logoColor=A855F7)
+![Sass](https://img.shields.io/badge/Sass-0a0014?style=flat-square&logo=sass&logoColor=A855F7)
+
+**Backend & Data**
+![Laravel](https://img.shields.io/badge/Laravel-0a0014?style=flat-square&logo=laravel&logoColor=A855F7)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0014?style=flat-square&logo=mongodb&logoColor=A855F7)
+![MySQL](https://img.shields.io/badge/MySQL-0a0014?style=flat-square&logo=mysql&logoColor=A855F7)
+![Firebase](https://img.shields.io/badge/Firebase-0a0014?style=flat-square&logo=firebase&logoColor=A855F7)
+
+**Security & Tools**
+![Linux](https://img.shields.io/badge/Linux-0a0014?style=flat-square&logo=linux&logoColor=A855F7)
+![Git](https://img.shields.io/badge/Git-0a0014?style=flat-square&logo=git&logoColor=A855F7)
+![Wireshark](https://img.shields.io/badge/Wireshark-0a0014?style=flat-square&logo=wireshark&logoColor=A855F7)
+
+**Design**
+![Figma](https://img.shields.io/badge/Figma-0a0014?style=flat-square&logo=figma&logoColor=A855F7)
+![Blender](https://img.shields.io/badge/Blender-0a0014?style=flat-square&logo=blender&logoColor=A855F7)
+![Photoshop](https://img.shields.io/badge/Photoshop-0a0014?style=flat-square&logo=adobephotoshop&logoColor=A855F7)
+![Illustrator](https://img.shields.io/badge/Illustrator-0a0014?style=flat-square&logo=adobeillustrator&logoColor=A855F7)
+![After Effects](https://img.shields.io/badge/After_Effects-0a0014?style=flat-square&logo=adobeaftereffects&logoColor=A855F7)
+
+</div>
+
+</details>
+
+<br/>
+
+<!-- ============================================================ -->
+<!-- EXPERIENCE DASHBOARD -->
+<!-- ============================================================ -->
+<div align="center">
+
+## ⬡ MISSION CONTROL
+
+</div>
+
+<table align="center">
+<tr>
+<td width="25%" align="center" valign="top">
+
+**🎯 CURRENT MISSION**
+<br/><br/>
+`[Project name / focus]`
+<br/>
+`[One-line description]`
+
+</td>
+<td width="25%" align="center" valign="top">
+
+**📡 LEARNING**
+<br/><br/>
+`Three.js`
+<br/>
+`Blender`
+<br/>
+`Advanced Pentesting`
+
+</td>
+<td width="25%" align="center" valign="top">
+
+**🛰️ AVAILABILITY**
+<br/><br/>
+`OPEN TO COLLAB`
+<br/>
+`Web Dev Projects`
+
+</td>
+<td width="25%" align="center" valign="top">
+
+**⚡ GOALS 2026**
+<br/><br/>
+`[Your goal here]`
+<br/>
+`[Your goal here]`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ============================================================ -->
+<!-- TIMELINE -->
+<!-- ============================================================ -->
+<div align="center">
+
+## ⬡ MISSION LOG
+
+<img src="./assets/timeline.svg" width="100%" alt="futuristic timeline"/>
+
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!-- GITHUB STATS DASHBOARD -->
+<!-- ============================================================ -->
+<div align="center">
+
+## ⬡ SYSTEM DIAGNOSTICS
+
+<img src="https://github-readme-stats.vercel.app/api?username=x-hamza47&show_icons=true&count_private=true&title_color=A855F7&text_color=c9d1d9&icon_color=A855F7&bg_color=0a0014&hide_border=true&rank_icon=github" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=x-hamza47&stroke=A855F7&background=0a0014&ring=A855F7&fire=A855F7&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" width="38%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-hamza47&layout=compact&langs_count=8&title_color=A855F7&text_color=c9d1d9&icon_color=A855F7&bg_color=0a0014&hide_border=true" width="45%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=x-hamza47&bg_color=0a0014&color=A855F7&line=A855F7&point=ffffff&area=true&hide_border=true" width="45%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=x-hamza47&theme=algolia&column=7&margin-w=8&margin-h=8&no-bg=true&title=Stars,Commits,PullRequest,Repositories,Followers" width="90%"/>
+
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!-- PROJECTS -->
+<!-- ============================================================ -->
+<div align="center">
+
+## ⬡ FEATURED DEPLOYMENTS
+
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+**⬡ [PROJECT NAME]**
+<br/>
+`STATUS: LIVE`
+
+`[One-line description of what this project does]`
+
+`React` `Node.js` `MongoDB`
+
+[`REPOSITORY`](https://github.com/x-hamza47) · [`LIVE DEMO`](https://your-link.com)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+**⬡ [PROJECT NAME]**
+<br/>
+`STATUS: IN DEVELOPMENT`
+
+`[One-line description of what this project does]`
+
+`Laravel` `MySQL` `Tailwind`
+
+[`REPOSITORY`](https://github.com/x-hamza47) · [`LIVE DEMO`](https://your-link.com)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/x-hamza47/laravel-shop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=x-hamza47&repo=laravel-shop&title_color=A855F7&text_color=c9d1d9&icon_color=A855F7&bg_color=0a0014&hide_border=true" width="45%"/></a>
+<a href="https://github.com/x-hamza47/accessories"><img src="https://github-readme-stats.vercel.app/api/pin/?username=x-hamza47&repo=accessories&title_color=A855F7&text_color=c9d1d9&icon_color=A855F7&bg_color=0a0014&hide_border=true" width="45%"/></a>
+
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!-- CONTRIBUTION SNAKE -->
+<!-- ============================================================ -->
+<div align="center">
+
+## ⬡ ACTIVITY FEED
+
+<img src="https://raw.githubusercontent.com/x-hamza47/x-hamza47/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
+
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!-- CONTACT -->
+<!-- ============================================================ -->
+<div align="center">
+
+## ⬡ ESTABLISH CONNECTION
+
+<a href="https://github.com/x-hamza47"><img src="https://img.shields.io/badge/GITHUB-0a0014?style=for-the-badge&logo=github&logoColor=A855F7"/></a>
+<a href="https://discord.com/users/x_hamza47"><img src="https://img.shields.io/badge/DISCORD-0a0014?style=for-the-badge&logo=discord&logoColor=A855F7"/></a>
+<a href="mailto:hamzaamir72007@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0a0014?style=for-the-badge&logo=gmail&logoColor=A855F7"/></a>
+<br/>
+<a href="http://www.instagram.com/x_hamza47"><img src="https://img.shields.io/badge/INSTAGRAM-0a0014?style=for-the-badge&logo=instagram&logoColor=A855F7"/></a>
+<a href="https://www.x.com/@_hamza47"><img src="https://img.shields.io/badge/X-0a0014?style=for-the-badge&logo=x&logoColor=A855F7"/></a>
+<a href="https://www.threads.net/@x_hamzii47"><img src="https://img.shields.io/badge/THREADS-0a0014?style=for-the-badge&logo=threads&logoColor=A855F7"/></a>
+<a href="https://hamzaamir-portfolio.web.app"><img src="https://img.shields.io/badge/PORTFOLIO-0a0014?style=for-the-badge&logo=firefox&logoColor=A855F7"/></a>
+
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!-- FOOTER -->
+<!-- ============================================================ -->
+<img src="./assets/footer.svg" width="100%" alt="footer"/>
+
+<div align="center">
+
+`SYSTEM STANDBY // CONNECTION ENDED // THANK YOU FOR VISITING`
+
+</div>
