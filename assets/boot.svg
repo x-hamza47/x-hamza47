@@ -17,7 +17,10 @@
 </rect>
 <text x="50" y="40" font-family="JetBrains Mono, monospace" font-size="14" fill="#A855F7">Initializing HAMZA.OS...<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.0000;0.0010;0.9310;1.0000" dur="5.8000s" begin="0s" repeatCount="indefinite"/></text>
 <rect x="50" y="52" width="700" height="14" rx="7" fill="#1a0533" stroke="#3b0764" stroke-width="1"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.0000;0.0010;0.9310;1.0000" dur="5.8000s" begin="0s" repeatCount="indefinite"/></rect>
-<rect x="50" y="52" height="14" rx="7" fill="url(#barFill)"><animate attributeName="width" values="0;0;700;700;0" keyTimes="0;0.0000;0.1552;0.9310;1.0000" dur="5.8000s" begin="0s" repeatCount="indefinite"/></rect>
+<rect x="50" y="52" height="14" rx="7" fill="url(#barFill)"><animate attributeName="width" 
+         values="0;0;280;420;500;500;600;700;0" 
+         keyTimes="0;0;0.1552;0.35;0.36;0.55;0.56;0.9310;1" 
+         dur="5.8000s" begin="0s" repeatCount="indefinite"/></rect>
 <text x="750" y="63" font-family="JetBrains Mono, monospace" font-size="11" fill="#c9d1d9" text-anchor="end">100%<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.1400;0.1552;0.9310;1.0000" dur="5.8000s" begin="0s" repeatCount="indefinite"/></text>
 <text x="50" y="96" font-family="JetBrains Mono, monospace" font-size="14" fill="#c9d1d9">Full Stack Engine<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.1552;0.1562;0.9310;1.0000" dur="5.8000s" begin="0s" repeatCount="indefinite"/></text>
 <g><circle cx="36" cy="91" r="6" fill="none" stroke="#3b0764" stroke-width="2"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.1552;0.1562;0.2586;0.2596" dur="5.8000s" begin="0s" repeatCount="indefinite"/></circle><path d="M 36 85 A 6 6 0 0 1 42 91" fill="none" stroke="#C084FC" stroke-width="2" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" values="0 36 91;0 36 91;360 36 91;360 36 91" keyTimes="0;0.1552;0.2586;1" dur="5.8000s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.1552;0.1562;0.2586;0.2596" dur="5.8000s" begin="0s" repeatCount="indefinite"/></path></g>
