@@ -1,4 +1,5 @@
-<svg width="900" height="160" viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="160" viewBox="0 0 900 160"
+  xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="footBg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#0a0014"/>
@@ -9,11 +10,18 @@
       <stop offset="50%" stop-color="#A855F7"/>
       <stop offset="100%" stop-color="#6D28D9"/>
     </linearGradient>
+    <filter id="footGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
 
   <rect width="900" height="160" fill="url(#footBg)"/>
 
-  <!-- circuit traces -->
+
   <g stroke="#4C1D95" stroke-width="1.5" fill="none" opacity="0.7">
     <path d="M0,40 H150 V20 H300"/>
     <path d="M900,100 H750 V120 H600"/>
@@ -31,7 +39,7 @@
     </circle>
   </g>
 
-  <!-- floating particles -->
+
   <g fill="#C084FC">
     <circle cx="100" cy="50" r="1.8" opacity="0.6">
       <animate attributeName="cy" values="50;30;50" dur="4s" repeatCount="indefinite"/>
@@ -47,30 +55,29 @@
     </circle>
   </g>
 
-  <!-- animated wave -->
   <path fill="url(#waveGrad)" opacity="0.5">
-    <animate attributeName="d"
-      dur="6s"
-      repeatCount="indefinite"
-      values="
+    <animate attributeName="d" dur="6s" repeatCount="indefinite" values="
         M0,110 Q225,90 450,110 T900,110 V160 H0 Z;
         M0,110 Q225,130 450,110 T900,110 V160 H0 Z;
         M0,110 Q225,90 450,110 T900,110 V160 H0 Z
       "/>
   </path>
   <path fill="#A855F7" opacity="0.35">
-    <animate attributeName="d"
-      dur="5s"
-      repeatCount="indefinite"
-      values="
+    <animate attributeName="d" dur="5s" repeatCount="indefinite" values="
         M0,125 Q225,140 450,125 T900,125 V160 H0 Z;
         M0,125 Q225,105 450,125 T900,125 V160 H0 Z;
         M0,125 Q225,140 450,125 T900,125 V160 H0 Z
       "/>
   </path>
 
-  <!-- digital signature text -->
   <text x="450" y="30" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#8b8b9e" letter-spacing="3">
     HAMZA.OS // SESSION TERMINATED SAFELY
   </text>
+
+  <g transform="translate(450, 145)">
+    <circle cx="-138" cy="-4" r="3.5" fill="#4ade80" filter="url(#footGlow)">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="0" y="0" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="11" fill="#A855F7" letter-spacing="1.5" filter="url(#footGlow)">SYSTEM LAST SYNCED: 2026-07-20 19:28 PKT</text>
+  </g>
 </svg>
