@@ -1,4 +1,5 @@
-<svg width="800" height="260" viewBox="0 0 800 260" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="260" viewBox="0 0 800 260"
+  xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="scanBg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0a0014"/>
@@ -8,7 +9,6 @@
 
   <rect width="800" height="260" rx="10" fill="url(#scanBg)" stroke="#A855F7" stroke-width="1" opacity="0.9"/>
 
-  <!-- left: id silhouette being scanned -->
   <g transform="translate(60,40)">
     <rect x="0" y="0" width="160" height="180" rx="8" fill="#1a0533" stroke="#3b0764" stroke-width="1"/>
     <circle cx="80" cy="60" r="30" fill="none" stroke="#A855F7" stroke-width="1.5" opacity="0.6"/>
@@ -16,44 +16,42 @@
 
     <!-- scan sweep line -->
     <rect x="0" y="0" width="160" height="6" fill="#C084FC" opacity="0.7">
-      <animate attributeName="y" values="0;174;0" dur="2.2s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="0;174;0" dur="2.2s" repeatCount="indefinite" begin="1s"/>
     </rect>
     <rect x="0" y="0" width="160" height="180" fill="#A855F7" opacity="0.04"/>
   </g>
 
-  <!-- right: readouts -->
   <g font-family="JetBrains Mono, monospace" font-size="14" fill="#c9d1d9">
     <text x="270" y="55">
       IDENTITY VERIFIED
-      <animate attributeName="fill" values="#c9d1d9;#4ade80;#4ade80" dur="2.4s" begin="0.3s" fill="freeze" repeatCount="indefinite"/>
+      <animate attributeName="fill" values="#c9d1d9;#4ade80;#4ade80" dur="2.4s" begin="3s" fill="freeze" repeatCount="indefinite"/>
     </text>
     <rect x="270" y="66" width="460" height="10" rx="5" fill="#1a0533"/>
     <rect x="270" y="66" height="10" rx="5" fill="#4ade80">
-      <animate attributeName="width" values="0;460;460" keyTimes="0;0.5;1" dur="2.4s" begin="0.3s" fill="freeze" repeatCount="indefinite"/>
+      <animate attributeName="width" values="0;460;460" keyTimes="0;0.5;1" dur="2.4s" begin="3s" fill="freeze" repeatCount="indefinite"/>
     </rect>
 
     <text x="270" y="105">CONNECTION SECURE</text>
     <rect x="270" y="116" width="460" height="10" rx="5" fill="#1a0533"/>
     <rect x="270" y="116" height="10" rx="5" fill="#A855F7">
-      <animate attributeName="width" values="0;460;460" keyTimes="0;0.5;1" dur="2.4s" begin="0.6s" fill="freeze" repeatCount="indefinite"/>
+      <animate attributeName="width" values="0;460;460" keyTimes="0;0.5;1" dur="2.4s" begin="3.4s" fill="freeze" repeatCount="indefinite"/>
     </rect>
 
     <text x="270" y="155">DEVELOPER DETECTED</text>
     <rect x="270" y="166" width="460" height="10" rx="5" fill="#1a0533"/>
     <rect x="270" y="166" height="10" rx="5" fill="#A855F7">
-      <animate attributeName="width" values="0;460;460" keyTimes="0;0.5;1" dur="2.4s" begin="0.9s" fill="freeze" repeatCount="indefinite"/>
+      <animate attributeName="width" values="0;460;460" keyTimes="0;0.5;1" dur="2.4s" begin="3.6s" fill="freeze" repeatCount="indefinite"/>
     </rect>
 
     <text x="270" y="205">THREAT LEVEL: NONE — FRIENDLY</text>
     <rect x="270" y="216" width="460" height="10" rx="5" fill="#1a0533"/>
     <rect x="270" y="216" height="10" rx="5" fill="#facc15">
-      <animate attributeName="width" values="0;140;140" keyTimes="0;0.5;1" dur="2.4s" begin="1.2s" fill="freeze" repeatCount="indefinite"/>
+      <animate attributeName="width" values="0;140;140" keyTimes="0;0.5;1" dur="2.4s" begin="4s" fill="freeze" repeatCount="indefinite"/>
     </rect>
   </g>
 
-  <!-- access granted flash -->
   <text x="400" y="250" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="16" fill="#4ade80" opacity="0" letter-spacing="4">
     ACCESS GRANTED
-    <animate attributeName="opacity" values="0;0;1;1;0.4;1" keyTimes="0;0.55;0.6;0.75;0.85;1" dur="2.4s" begin="1.5s" fill="freeze" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;1;0.4;1" keyTimes="0;0.55;0.6;0.75;0.85;1" dur="2.4s" begin="4s" fill="freeze" repeatCount="indefinite"/>
   </text>
 </svg>
