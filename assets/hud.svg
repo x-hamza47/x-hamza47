@@ -29,22 +29,13 @@
 </filter>
 </defs>
 
-<!-- base fill so there's never a blank frame during crossfade -->
 <rect width="900" height="240" rx="10" fill="#0a0014"/>
-
-<!-- ============================================================ -->
-<!-- CYCLE TIMING (total 11s)                                     -->
-<!-- 0s -> 5.8s   : boot sequence plays                            -->
-<!-- 5.8s -> 6.3s : crossfade boot -> hud                          -->
-<!-- 6.3s -> 10.3s: hud holds                                      -->
-<!-- 10.3s -> 11s : crossfade hud -> boot (loop point)             -->
-<!-- ============================================================ -->
 
 <!-- ============================================================ -->
 <!-- BOOT GROUP -->
 <!-- ============================================================ -->
 <g>
-<animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.42;0.42;0.9533;1" dur="15s" begin="0s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.3867;0.4067;0.9533;1" dur="15s" begin="0s" repeatCount="indefinite"/>
 
 <rect width="900" height="240" rx="10" fill="url(#bootBg)" stroke="#A855F7" stroke-width="1" opacity="0.9"/>
 <rect width="900" height="4" fill="#A855F7" opacity="0.08">
@@ -105,7 +96,7 @@
 <!-- HUD GROUP -->
 <!-- ============================================================ -->
 <g>
-<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.42;0.42;0.9533;1" dur="15s" begin="0s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.3867;0.4067;0.9533;1" dur="15s" begin="0s" repeatCount="indefinite"/>
 
 <rect width="900" height="240" fill="url(#hudBg)"/>
 <g stroke="#A855F7" stroke-width="2" fill="none" opacity="0.8">
@@ -135,7 +126,7 @@ HAMZA AMIR
 <animate attributeName="opacity" values="0.85;1;0.85" dur="3s" repeatCount="indefinite"/>
 </text>
 <text x="450" y="150" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="14" fill="#c9d1d9" letter-spacing="3">
-SYSTEM STATUS: ONLINE
+FULL STACK ENGINEER
 </text>
 <rect x="350" y="165" width="200" height="2" fill="#A855F7">
 <animate attributeName="width" values="0;200;200;0" keyTimes="0;0.3;0.7;1" dur="6s" repeatCount="indefinite"/>
