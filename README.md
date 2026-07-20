@@ -1,10 +1,9 @@
 <div align="center">
 
-
 <!-- ============================================================ -->
 <!-- HEADER -->
 <!-- ============================================================ -->
-<img src="./assets/hud.sg" width="100%" alt="header hud"/>
+<img src="./assets/hud.svg" width="100%" alt="header hud"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Engineer;Security+Researcher;Creative+Technologist" alt="subtitle typing"/>
 
