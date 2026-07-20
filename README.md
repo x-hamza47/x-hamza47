@@ -7,9 +7,10 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=x-hamza47&color=a855f7&style=flat-square&label=SIGNAL+DETECTED)
-![Followers](https://img.shields.io/github/followers/x-hamza47?style=flat-square&color=a855f7&labelColor=0a0014&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/x-hamza47?style=flat-square&color=a855f7&labelColor=0a0014&label=STARS)
+
+![Profile Views](https://komarev.com/ghpvc/?username=x-hamza47&color=a855f7&style=flat&label=SIGNAL+DETECTED)
+![Followers](https://img.shields.io/github/followers/x-hamza47?style=flat&color=a855f7&labelColor=0a0014&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/x-hamza47?style=flat&color=a855f7&labelColor=0a0014&label=STARS)
 
 </div>
 
