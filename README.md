@@ -5,10 +5,6 @@
 <!-- ============================================================ -->
 <img src="./assets/hud.svg" width="100%" alt="header hud"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Engineer;Security+Researcher;Creative+Technologist" alt="subtitle typing"/>
-
-<br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=x-hamza47&color=a855f7&style=flat-square&label=SIGNAL+DETECTED)
 ![Followers](https://img.shields.io/github/followers/x-hamza47?style=flat-square&color=a855f7&labelColor=0a0014&label=FOLLOWERS)
 ![Stars](https://img.shields.io/github/stars/x-hamza47?style=flat-square&color=a855f7&labelColor=0a0014&label=STARS)
