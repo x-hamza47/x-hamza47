@@ -1,0 +1,48 @@
+name: Generate GitHub Assets
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Generate Snake
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: x-hamza47
+          outputs: |
+            publish/github-contribution-grid-snake.svg
+            publish/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Generate Grass
+      - name: Generate Grass
+        uses: nrysk/cgrass@v1.0.0
+        with:
+          github_username: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output_path: publish/output.png
+          command: "theme"
+          argument: "planet"
+
+      - name: Publish assets
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: publish
+          commit_message: "Update generated assets"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
