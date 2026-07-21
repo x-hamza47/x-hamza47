@@ -200,17 +200,18 @@ identity:
 
 ## ⬡ SYSTEM DIAGNOSTICS
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=x-hamza47&stroke=A855F7&background=0a0014&ring=A855F7&fire=A855F7&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" width="38%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=x-hamza47&bg_color=0a0014&color=A855F7&line=A855F7&point=ffffff&area=true&hide_border=true" width="45%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=x-hamza47&bg_color=0a0014&color=A855F7&line=A855F7&point=ffffff&area=true&hide_border=true" width="100%"/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=x-hamza47&show_icons=true&title_color=A855F7&text_color=c9d1d9&icon_color=A855F7&bg_color=0a0014&hide_border=true&rank_icon=github" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=x-hamza47&stroke=A855F7&background=0a0014&ring=A855F7&fire=A855F7&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" width="45%"/>
 
+<img src="https://github-readme-stats-fast.vercel.app/api?username=x-hamza47&show_icons=true&title_color=A855F7&text_color=c9d1d9&icon_color=A855F7&bg_color=0a0014&hide_border=true&rank_icon=github" width="45%"/>
 
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=x-hamza47&layout=compact&langs_count=8&title_color=A855F7&text_color=c9d1d9&icon_color=A855F7&bg_color=0a0014&hide_border=true" width="45%"/>
 
+<img src="https://github-trophies.vercel.app/?username=x-hamza47&theme=algolia&column=7&margin-w=8&margin-h=8&no-bg=true&title=Stars,Commits,PullRequest,Repositories,Followers" width="100%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=x-hamza47&theme=algolia&column=7&margin-w=8&margin-h=8&no-bg=true&title=Stars,Commits,PullRequest,Repositories,Followers" width="90%"/>
+</div>
 
 </div>
 
