@@ -38,6 +38,9 @@ jobs:
           command: "theme"
           argument: "planet"
 
+      - name: Debug - list publish folder
+        run: ls -la publish/
+
       - name: Publish assets
         uses: crazy-max/ghaction-github-pages@v4
         with:
