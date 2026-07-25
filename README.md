@@ -66,7 +66,13 @@ identity:
 ```
 
 <br/>
-
+<!-- ============================================================ -->
+<!-- CV DOWNLOAD -->
+<!-- ============================================================ -->
+<div align="center">
+  
+</div>
+<br/>
 <!-- ============================================================ -->
 <!-- SKILL VISUALIZATION -->
 <!-- ============================================================ -->
@@ -77,8 +83,7 @@ identity:
 <img src="./assets/neural.svg" width="100%" alt="neural skill network"/>
 
 <br/><br/>
-
-<img src="./assets/hexagon.svg" width="100%" alt="rotating hexagon skills"/>
+##
 
 </div>
 
@@ -126,72 +131,6 @@ identity:
 
 <br/>
 
-<!-- ============================================================ -->
-<!-- EXPERIENCE DASHBOARD -->
-<!-- ============================================================ -->
-<div align="center">
-
-## ⬡ MISSION CONTROL
-
-</div>
-
-<table align="center">
-<tr>
-<td width="25%" align="center" valign="top">
-
-**🎯 CURRENT MISSION**
-<br/><br/>
-`[Project name / focus]`
-<br/>
-`[One-line description]`
-
-</td>
-<td width="25%" align="center" valign="top">
-
-**📡 LEARNING**
-<br/><br/>
-`Three.js`
-<br/>
-`Blender`
-<br/>
-`Advanced Pentesting`
-
-</td>
-<td width="25%" align="center" valign="top">
-
-**🛰️ AVAILABILITY**
-<br/><br/>
-`OPEN TO COLLAB`
-<br/>
-`Web Dev Projects`
-
-</td>
-<td width="25%" align="center" valign="top">
-
-**⚡ GOALS 2026**
-<br/><br/>
-`[Your goal here]`
-<br/>
-`[Your goal here]`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ============================================================ -->
-<!-- TIMELINE -->
-<!-- ============================================================ -->
-<div align="center">
-
-## ⬡ MISSION LOG
-
-<img src="./assets/timeline.svg" width="100%" alt="futuristic timeline"/>
-
-</div>
-
-<br/>
 
 <!-- ============================================================ -->
 <!-- GITHUB STATS DASHBOARD -->
