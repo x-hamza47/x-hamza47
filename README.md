@@ -183,36 +183,42 @@ identity:
 
 <div align="center">
 
-**⬡ [PROJECT NAME]**
+**⬡ PORTFOLIO**
+
 <br/>
+
 `STATUS: LIVE`
 
-`[One-line description of what this project does]`
+`A modern developer portfolio featuring immersive 3D visuals and interactive user experiences.`
 
-`React` `Node.js` `MongoDB`
+`React` `Three.js` `Firebase`
 
-[`REPOSITORY`](https://github.com/x-hamza47) · [`LIVE DEMO`](https://your-link.com)
+[`REPOSITORY`](https://github.com/x-hamza47) · [`LIVE DEMO`](https://hamzaamir-portfolio.web.app)
 
 </div>
 
 </td>
+
 <td width="50%" valign="top">
 
 <div align="center">
 
-**⬡ [PROJECT NAME]**
+**⬡ VACCINATION MANAGEMENT SYSTEM**
+
 <br/>
-`STATUS: IN DEVELOPMENT`
 
-`[One-line description of what this project does]`
+`STATUS: COMPLETED`
 
-`Laravel` `MySQL` `Tailwind`
+`A full-stack platform that streamlines vaccination records, appointments, and healthcare administration.`
 
-[`REPOSITORY`](https://github.com/x-hamza47) · [`LIVE DEMO`](https://your-link.com)
+`Laravel` `MySQL` `Tailwind CSS`
+
+[`REPOSITORY`](https://github.com/x-hamza47) · `LIVE DEMO: PRIVATE`
 
 </div>
 
 </td>
+
 </tr>
 </table>
 
