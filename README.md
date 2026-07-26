@@ -104,9 +104,11 @@ identity:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="48" />
 <img src="https://iconic-api.onrender.com/dark/cpp" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/react" width="48px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" />
 <img src="https://iconic-api.onrender.com/dark/three-js" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/tailwind" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/sass" width="48px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48" />
 <img src="https://iconic-api.onrender.com/dark/laravel" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/mongodb" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/mysql" width="48px" />
@@ -120,6 +122,15 @@ identity:
 <img src="https://iconic-api.onrender.com/dark/ae" width="48px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48"/>
+<img src="https://iconic-api.onrender.com/dark/github" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/vscode" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/visual-studio" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/postman" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/npm" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/gitlab" width="48px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" />
+
 
 </div>
 
