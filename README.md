@@ -70,8 +70,6 @@ identity:
 <!-- CV DOWNLOAD -->
 <!-- ============================================================ -->
 <div align="center">
-
----
 <a href="https://hamzaamir-portfolio.web.app/resume.pdf">
   <img src="./assets/dossier.svg" width="100%" alt="download resume"/>
 </a>
