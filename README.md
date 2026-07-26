@@ -232,12 +232,10 @@ identity:
 
 ## ⬡ ACTIVITY FEED
 
-`SNAKE MODULE`
 <img src="https://raw.githubusercontent.com/x-hamza47/x-hamza47/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
 
 <br/>
 
-`3D MODULE`
 <img src="https://raw.githubusercontent.com/x-hamza47/x-hamza47/refs/heads/output/output.png" width="100%" alt="contribution grass"/>
 
 </div>
