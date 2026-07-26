@@ -118,6 +118,8 @@ identity:
 <img src="https://iconic-api.onrender.com/dark/ps" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/ai" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/ae" width="48px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48"/>
 
 </div>
 
