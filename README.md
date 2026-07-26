@@ -257,6 +257,7 @@ identity:
 <a href="https://www.x.com/@_hamza47"><img src="https://img.shields.io/badge/X-0a0014?style=for-the-badge&logo=x&logoColor=A855F7"/></a>
 <a href="https://www.threads.net/@x_hamzii47"><img src="https://img.shields.io/badge/THREADS-0a0014?style=for-the-badge&logo=threads&logoColor=A855F7"/></a>
 <a href="https://hamzaamir-portfolio.web.app"><img src="https://img.shields.io/badge/PORTFOLIO-0a0014?style=for-the-badge&logo=firefox&logoColor=A855F7"/></a>
+[![Download CV](https://img.shields.io/badge/⬇_DOWNLOAD_CV-0a0014?style=for-the-badge&logoColor=A855F7&color=A855F7)](https://hamzaamir-portfolio.web.app/resume.pdf)
 
 </div>
 
