@@ -108,6 +108,7 @@ identity:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" />
 <img src="https://iconic-api.onrender.com/dark/react" width="48px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" />
+<img src="https://iconic-api.onrender.com/dark/nextjs" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/three-js" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/tailwind" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/sass" width="48px" />
