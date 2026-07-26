@@ -103,6 +103,7 @@ identity:
 <img src="https://iconic-api.onrender.com/dark/php" width="48px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="48" />
 <img src="https://iconic-api.onrender.com/dark/cpp" width="48px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" />
 <img src="https://iconic-api.onrender.com/dark/react" width="48px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" />
 <img src="https://iconic-api.onrender.com/dark/three-js" width="48px" />
@@ -126,7 +127,7 @@ identity:
 <img src="https://iconic-api.onrender.com/dark/vscode" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/visual-studio" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/postman" width="48px" />
-<img src="https://iconic-api.onrender.com/dark/npm" width="48px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" alt="npm" />
 <img src="https://iconic-api.onrender.com/dark/gitlab" width="48px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" />
