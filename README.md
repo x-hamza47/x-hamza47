@@ -183,17 +183,17 @@ identity:
 
 <div align="center">
 
-**⬡ PORTFOLIO**
+**⬡ TIC TAC TOE**
 
 <br/>
 
 `STATUS: LIVE`
 
-`A modern developer portfolio featuring immersive 3D visuals and interactive user experiences.`
+`A polished browser-based Tic-Tac-Toe game with a responsive interface and smooth gameplay experience.`
 
-`React` `Three.js` `Firebase`
+`React` `Vite` `CSS`
 
-[`REPOSITORY`](https://github.com/x-hamza47) · [`LIVE DEMO`](https://hamzaamir-portfolio.web.app)
+[`REPOSITORY`](https://github.com/x-hamza47/tic-tac-toe) · [`LIVE DEMO`](https://tic-tac-toe-three-mu-94.vercel.app)
 
 </div>
 
