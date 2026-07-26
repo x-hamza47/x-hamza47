@@ -87,7 +87,6 @@ identity:
 
 <br/><br/>
 ##
-
 </div>
 
 <details>
@@ -97,41 +96,30 @@ identity:
 
 <div align="center">
 
-**Languages**
-![C](https://img.shields.io/badge/C-0a0014?style=flat-square&logo=c&logoColor=A855F7)
-![C++](https://img.shields.io/badge/C++-0a0014?style=flat-square&logo=cplusplus&logoColor=A855F7)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0014?style=flat-square&logo=typescript&logoColor=A855F7)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0014?style=flat-square&logo=javascript&logoColor=A855F7)
-![PHP](https://img.shields.io/badge/PHP-0a0014?style=flat-square&logo=php&logoColor=A855F7)
-
-**Frontend**
-![React](https://img.shields.io/badge/React-0a0014?style=flat-square&logo=react&logoColor=A855F7)
-![Three.js](https://img.shields.io/badge/Three.js-0a0014?style=flat-square&logo=threedotjs&logoColor=A855F7)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0a0014?style=flat-square&logo=tailwindcss&logoColor=A855F7)
-![Sass](https://img.shields.io/badge/Sass-0a0014?style=flat-square&logo=sass&logoColor=A855F7)
-
-**Backend & Data**
-![Laravel](https://img.shields.io/badge/Laravel-0a0014?style=flat-square&logo=laravel&logoColor=A855F7)
-![MongoDB](https://img.shields.io/badge/MongoDB-0a0014?style=flat-square&logo=mongodb&logoColor=A855F7)
-![MySQL](https://img.shields.io/badge/MySQL-0a0014?style=flat-square&logo=mysql&logoColor=A855F7)
-![Firebase](https://img.shields.io/badge/Firebase-0a0014?style=flat-square&logo=firebase&logoColor=A855F7)
-
-**Security & Tools**
-![Linux](https://img.shields.io/badge/Linux-0a0014?style=flat-square&logo=linux&logoColor=A855F7)
-![Git](https://img.shields.io/badge/Git-0a0014?style=flat-square&logo=git&logoColor=A855F7)
-![Wireshark](https://img.shields.io/badge/Wireshark-0a0014?style=flat-square&logo=wireshark&logoColor=A855F7)
-
-**Design**
-![Figma](https://img.shields.io/badge/Figma-0a0014?style=flat-square&logo=figma&logoColor=A855F7)
-![Blender](https://img.shields.io/badge/Blender-0a0014?style=flat-square&logo=blender&logoColor=A855F7)
-![Photoshop](https://img.shields.io/badge/Photoshop-0a0014?style=flat-square&logo=adobephotoshop&logoColor=A855F7)
-![Illustrator](https://img.shields.io/badge/Illustrator-0a0014?style=flat-square&logo=adobeillustrator&logoColor=A855F7)
-![After Effects](https://img.shields.io/badge/After_Effects-0a0014?style=flat-square&logo=adobeaftereffects&logoColor=A855F7)
+<img src="https://iconic-api.onrender.com/dark/c" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/cpp" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/typescript" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/js" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/php" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/react" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/three-js" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/tailwind" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/sass" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/laravel" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/mongodb" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/mysql" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/firebase" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/linux" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/git" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/figma" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/blender" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/ps" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/ai" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/ae" width="48px" />
 
 </div>
 
 </details>
-
 <br/>
 
 
