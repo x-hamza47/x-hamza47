@@ -116,6 +116,8 @@ identity:
 <img src="https://iconic-api.onrender.com/dark/laravel" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/mongodb" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/mysql" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/dart" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/flutter" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/postgresql" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/firebase" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/linux" width="48px" />
