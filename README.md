@@ -96,7 +96,6 @@ identity:
 
 <div align="center">
 
-<img src="https://iconic-api.onrender.com/dark/c" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/cpp" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/typescript" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/js" width="48px" />
