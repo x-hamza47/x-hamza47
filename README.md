@@ -218,8 +218,8 @@ identity:
 
 <div align="center">
 
-<a href="https://github.com/x-hamza47/laravel-shop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=x-hamza47&repo=laravel-shop&title_color=A855F7&text_color=c9d1d9&icon_color=A855F7&bg_color=0a0014&hide_border=true" width="45%"/></a>
-<a href="https://github.com/x-hamza47/accessories"><img src="https://github-readme-stats.vercel.app/api/pin/?username=x-hamza47&repo=accessories&title_color=A855F7&text_color=c9d1d9&icon_color=A855F7&bg_color=0a0014&hide_border=true" width="45%"/></a>
+<a href="https://github.com/x-hamza47/laravel-shop"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=x-hamza47&repo=laravel-shop&title_color=A855F7&text_color=c9d1d9&icon_color=A855F7&bg_color=0a0014&hide_border=true" width="45%"/></a>
+<a href="https://github.com/x-hamza47/accessories"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=x-hamza47&repo=accessories&title_color=A855F7&text_color=c9d1d9&icon_color=A855F7&bg_color=0a0014&hide_border=true" width="45%"/></a>
 
 </div>
 
