@@ -90,16 +90,19 @@ identity:
 </div>
 
 <details>
-<summary align="center"><b>⬡ EXPAND SECONDARY MODULES (badges)</b></summary>
+<summary align="center"><b>⬡ SOFTWARE INVENTORY</b></summary>
 
 <br/>
 
 <div align="center">
 
-<img src="https://iconic-api.onrender.com/dark/cpp" width="48px" />
-<img src="https://iconic-api.onrender.com/dark/typescript" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/html" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/css" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/js" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/typescript" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/php" width="48px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="48" />
+<img src="https://iconic-api.onrender.com/dark/cpp" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/react" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/three-js" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/tailwind" width="48px" />
