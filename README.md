@@ -213,7 +213,7 @@ identity:
 
 `Laravel` `MySQL` `Tailwind CSS`
 
-[`REPOSITORY`](https://github.com/x-hamza47) · `LIVE DEMO: PRIVATE`
+[`REPOSITORY`](https://github.com/x-hamza47/vaccine-management-laravel) · `LIVE DEMO: PRIVATE`
 
 </div>
 
