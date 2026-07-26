@@ -191,7 +191,7 @@ identity:
 
 `A polished browser-based Tic-Tac-Toe game with a responsive interface and smooth gameplay experience.`
 
-`React` `Vite` `CSS`
+`Html` `CSS` `JS`
 
 [`REPOSITORY`](https://github.com/x-hamza47/tic-tac-toe) · [`LIVE DEMO`](https://tic-tac-toe-three-mu-94.vercel.app)
 
