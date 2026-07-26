@@ -34,7 +34,7 @@
 <!-- ============================================================ -->
 <div align="center">
 
-## ⬡ AI TERMINAL
+## ⬡ DEVELOPER CONSOLE
 
 <img src="./assets/terminal.svg" width="100%" alt="AI terminal"/>
 
