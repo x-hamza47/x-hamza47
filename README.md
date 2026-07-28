@@ -56,7 +56,6 @@
 ```yaml
 identity:
   callsign: Hamza Amir
-  location: Karachi, Pakistan [PK]
   role: Full Stack Engineer / Security Researcher
   focus: [ Web Development, Application Security, 3D Graphics ]
   status: ONLINE
