@@ -2,11 +2,11 @@
   xmlns="http://www.w3.org/2000/svg">
   <defs>
     <radialGradient id="skBg" cx="50%" cy="50%" r="75%">
-      <stop offset="0%" stop-color="#170430"/>
-      <stop offset="100%" stop-color="#08000f"/>
+      <stop offset="0%" stop-color="#1a0710"/>
+      <stop offset="100%" stop-color="#080206"/>
     </radialGradient>
     <radialGradient id="nodeGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#f3e8ff"/>
+      <stop offset="0%" stop-color="#f8dbe3"/>
       <stop offset="40%" stop-color="#a3203f"/>
       <stop offset="100%" stop-color="#a3203f" stop-opacity="0"/>
     </radialGradient>
@@ -26,7 +26,7 @@
     </rect>
 
     <text x="30" y="38" font-family="JetBrains Mono, monospace" font-size="15" fill="#a3203f" letter-spacing="2">ACTIVE TECHNOLOGY NETWORK</text>
-    <text x="30" y="58" font-family="JetBrains Mono, monospace" font-size="10.5" fill="#7c7c94">active modules detected &#8226; engineering &#8226; security &#8226; graphics &#8226; cloud</text>
+    <text x="30" y="58" font-family="JetBrains Mono, monospace" font-size="10.5" fill="#8a7a80">active modules detected &#8226; engineering &#8226; security &#8226; graphics &#8226; cloud</text>
 
     <!-- central core node -->
     <g transform="translate(500,530)">
@@ -38,7 +38,7 @@
         <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="22s" repeatCount="indefinite"/>
       </circle>
       <circle r="18" fill="#f2c4d0"/>
-      <text y="4" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="10" fill="#170430" font-weight="700">CORE</text>
+      <text y="4" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="10" fill="#1a0710" font-weight="700">CORE</text>
     </g>
 
     <!-- ============ CONNECTING LINES ============ -->

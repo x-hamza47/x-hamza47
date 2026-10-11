@@ -5,7 +5,7 @@
 
   <defs>
     <linearGradient id="bootBg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0a0508"/>
+      <stop offset="0%" stop-color="#0a0506"/>
       <stop offset="100%" stop-color="#1a0710"/>
     </linearGradient>
     <linearGradient id="barFill" x1="0" y1="0" x2="1" y2="0">
@@ -14,7 +14,7 @@
     </linearGradient>
     <radialGradient id="hudBg" cx="50%" cy="45%" r="75%">
       <stop offset="0%" stop-color="#240a13"/>
-      <stop offset="100%" stop-color="#0a0508"/>
+      <stop offset="100%" stop-color="#0a0506"/>
     </radialGradient>
     <linearGradient id="titleGrad" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#d4506e"/>
@@ -47,7 +47,7 @@
     </clipPath>
   </defs>
 
-  <rect width="900" height="240" rx="10" fill="#0a0508"/>
+  <rect width="900" height="240" rx="10" fill="#0a0506"/>
 
   <!-- ============================================================ -->
   <!-- BOOT GROUP -->
