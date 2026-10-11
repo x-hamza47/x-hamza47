@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="./assets/hud.svg" width="100%" alt="Hamza Aamir - Software Developer, Full-Stack Engineer and Creative Technologist"/>
+<img src="./assets/hud.svg" width="100%" alt="Hamza Aamir - Full-Stack Software Engineer from Karachi, Pakistan"/>
 
 </div>
 
 # Hamza Aamir
 
-### Software Developer in Karachi, Pakistan | Full-Stack · Interactive 3D Web · Creative Technology
+### Full-Stack Software Engineer in Karachi, Pakistan | React · Node.js · Express.js · Laravel · Three.js
 
-Hamza Aamir (also written Hamza Amir) is a software developer from Karachi, Pakistan. He builds full-stack web applications with the MERN stack (MongoDB, Express.js, React, Node.js) and Laravel, and creates interactive 3D experiences for the browser with Three.js and React Three Fiber. He is also learning cybersecurity fundamentals to build safer applications.
+Hamza Aamir (also written Hamza Amir) is a full-stack software engineer and web developer from Karachi, Pakistan. He builds full-stack web applications with the MERN stack (MongoDB, Express.js, React, Node.js) and Laravel, and creates interactive 3D experiences for the browser with Three.js and React Three Fiber. He is also learning cybersecurity fundamentals to build safer applications.
 
 🌐 **Portfolio:** [hamzaamir-portfolio.web.app](https://hamzaamir-portfolio.web.app)
 📧 **Email:** [hamzaamir72007@gmail.com](mailto:hamzaamir72007@gmail.com)
@@ -36,7 +36,7 @@ I enjoy building products end to end: React interfaces, Node.js and Express APIs
 - **Creative technology**: animation, motion and playful interaction in the browser
 - **Cybersecurity fundamentals**: learning how web apps are attacked so I can defend them better
 
-Open to freelance projects, collaborations and developer roles.
+Open to freelance projects, collaborations and software engineering roles.
 
 <div align="center">
 
@@ -182,4 +182,4 @@ My portfolio, built with **React, Three.js and React Three Fiber**, with 3D char
 
 <br/>
 
-<img src="./assets/footer.svg" width="100%" alt="Hamza Aamir - Software Developer, Karachi, Pakistan"/>
+<img src="./assets/footer.svg" width="100%" alt="Hamza Aamir - Full-Stack Software Engineer, Karachi, Pakistan"/>
