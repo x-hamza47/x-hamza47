@@ -8,7 +8,7 @@
 
 ### Full-Stack Software Engineer in Karachi, Pakistan | React · Node.js · Express.js · Laravel · Three.js
 
-Hamza Aamir (also written Hamza Amir) is a full-stack software engineer and web developer from Karachi, Pakistan. He builds full-stack web applications with the MERN stack (MongoDB, Express.js, React, Node.js) and Laravel, and creates interactive 3D experiences for the browser with Three.js and React Three Fiber. He is also learning cybersecurity fundamentals to build safer applications.
+Hi, I'm **Hamza Aamir**, a full-stack software engineer and web developer from Karachi, Pakistan. I build full-stack web applications with the MERN stack (MongoDB, Express.js, React, Node.js) and Laravel, and I create interactive 3D experiences for the browser with Three.js and React Three Fiber. I'm also learning cybersecurity fundamentals so I can build safer applications.
 
 🌐 **Portfolio:** [hamzaamir-portfolio.web.app](https://hamzaamir-portfolio.web.app)
 📧 **Email:** [hamzaamir72007@gmail.com](mailto:hamzaamir72007@gmail.com)
@@ -44,11 +44,11 @@ Open to freelance projects, collaborations and software engineering roles.
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <a href="https://hamzaamir-portfolio.web.app/resume.pdf">
   <img src="./assets/dossier.svg" width="100%" alt="Download Hamza Aamir's resume (PDF)"/>
 </a>
-</div>
+</div> -->
 
 ---
 
