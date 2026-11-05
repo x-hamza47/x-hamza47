@@ -171,7 +171,7 @@ My portfolio, built with **React, Three.js and React Three Fiber**, with 3D char
 
 <a href="https://hamzaamir-portfolio.web.app"><img src="https://img.shields.io/badge/PORTFOLIO-0a0508?style=for-the-badge&logo=firefox&logoColor=D4506E" alt="Hamza Aamir portfolio"/></a>
 <a href="https://github.com/x-hamza47"><img src="https://img.shields.io/badge/GITHUB-0a0508?style=for-the-badge&logo=github&logoColor=D4506E" alt="Hamza Aamir on GitHub"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LINKEDIN-0a0508?style=for-the-badge&logo=linkedin&logoColor=D4506E" alt="Hamza Aamir on LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/hamza-aamir-dev/"><img src="https://img.shields.io/badge/LINKEDIN-0a0508?style=for-the-badge&logo=linkedin&logoColor=D4506E" alt="Hamza Aamir on LinkedIn"/></a>
 <a href="mailto:hamzaamir72007@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0a0508?style=for-the-badge&logo=gmail&logoColor=D4506E" alt="Email Hamza Aamir"/></a>
 <br/>
 <a href="http://www.instagram.com/x_hamza47"><img src="https://img.shields.io/badge/INSTAGRAM-0a0508?style=for-the-badge&logo=instagram&logoColor=D4506E" alt="Hamza Aamir on Instagram"/></a>
