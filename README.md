@@ -121,7 +121,7 @@ An interactive, dark-themed fitness tracking app with 3D gym visuals, built with
 
 ### MarketLink: eGreen Basket
 A full-stack marketplace built for the Aptech Techwiz competition with **React, Express.js and MongoDB**. It has separate workflows for farmers, administrators and customers, and a pay-at-pickup ordering model.
-Repository: *add link here*
+[Repository](https://marketlink-eta.vercel.app/)
 
 ### Interactive 3D Portfolio
 My portfolio, built with **React, Three.js and React Three Fiber**, with 3D character animation and interactive physics experiments.
