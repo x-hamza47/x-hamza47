@@ -7,9 +7,9 @@
 # Hamza Aamir
 
 ### Full Stack Software Engineer and Cybersecurity Researcher
-**React, Node.js, Express.js, Laravel, Next.js, AI chatbots, Three.js and ethical hacking**
+**React, Angular, Node.js, Laravel, ASP.NET, AI chatbots, Three.js and ethical hacking**
 
-Hi, I'm **Hamza Aamir**, a full stack developer from Karachi with 4+ years of hands-on experience. I build web apps with React, Node.js, MongoDB and Laravel, add AI chatbots and smart features to real products, ship offline-first Windows software in C# and .NET 8, and make interactive 3D scenes for the browser with Three.js. I am also an ethical hacker and cybersecurity researcher, so I know how apps get broken and how to build them so they don't.
+Hi, I'm **Hamza Aamir**, a full stack developer from Karachi with 4+ years of hands-on experience. I build web apps and APIs with React, Angular, Node.js, Laravel and ASP.NET, work with every major database (SQL Server, PostgreSQL, MySQL, SQLite and MongoDB), add AI chatbots and workflow automation to real products, ship Windows software in C# and .NET 8, and make interactive 3D scenes for the browser with Three.js. I am also an ethical hacker and cybersecurity researcher, so I know how apps get broken and how to build them so they don't.
 
 I work remotely with clients in any time zone, and I care most about clean code, clear communication and software that simply works.
 
@@ -29,7 +29,6 @@ I work remotely with clients in any time zone, and I care most about clean code,
 <table align="center">
 <tr>
 <td align="center" width="33%"><h3>4+</h3>years of experience</td>
-<td align="center" width="33%"><h3>4</h3>live sites you can open today</td>
 <td align="center" width="33%"><h3>End to end</h3>from planning to deployment and SEO</td>
 </tr>
 </table>
@@ -73,7 +72,7 @@ Full stack apps with React, Node.js, Express and MongoDB, or Laravel and MySQL, 
 </td>
 <td valign="top" width="33%">
 <b>AI chatbots and integrations</b><br/>
-Chat assistants for websites and apps, connected to AI APIs and to your own content and workflows.
+Chat assistants for websites and apps, connected to AI APIs, plus workflow automation that links your tools together.
 </td>
 <td valign="top" width="33%">
 <b>CMS and directory platforms</b><br/>
@@ -87,11 +86,11 @@ Dynamic metadata, Schema.org markup, XML sitemaps, clean URLs and image optimiza
 </td>
 <td valign="top" width="33%">
 <b>REST APIs and databases</b><br/>
-Authentication, validation and a clean data layer you can keep building on.
+Authentication, validation and a clean data layer on SQL Server, PostgreSQL, MySQL or MongoDB, containerized with Docker when needed.
 </td>
 <td valign="top" width="33%">
-<b>Windows desktop software</b><br/>
-Offline-first C# and .NET 8 apps with a local database, receipts and reporting.
+<b>ASP.NET, .NET and desktop software</b><br/>
+C# back ends and offline-first Windows apps with SQL Server or SQLite, receipts and reporting.
 </td>
 </tr>
 </table>
@@ -110,15 +109,16 @@ Want to talk about your idea? [Message me on Fiverr](https://www.fiverr.com/hamz
 
 | Area | Technologies |
 |---|---|
-| **Languages** | HTML5, CSS3, JavaScript, TypeScript, PHP, C#, Dart, SQL |
-| **Frontend** | React.js, Next.js, Tailwind CSS, Bootstrap, jQuery, AJAX, Zustand, TanStack Query, React Hook Form, Zod |
-| **Backend** | Node.js, Express.js, Laravel, REST APIs, Mongoose, MongoDB, MySQL, SQLite, Microsoft SQL Server, Firebase |
-| **AI** | AI chatbots, AI API integration, prompt design, conversational interfaces |
+| **Languages** | HTML5, CSS3, JavaScript, TypeScript, C#, PHP, Dart, SQL |
+| **Frontend** | React.js, Angular, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap, jQuery, AJAX, Zustand, TanStack Query, React Hook Form, Zod |
+| **Backend** | C#, ASP.NET, .NET, Node.js, Express.js, Laravel, PHP, REST APIs, Firebase |
+| **Databases** | Microsoft SQL Server, PostgreSQL, MySQL, SQLite, MongoDB, Mongoose, EF Core |
+| **AI and automation** | AI chatbots, AI API integration, prompt design, conversational interfaces, workflow automation |
 | **SEO** | Technical SEO, Schema.org, dynamic metadata, XML sitemaps, robots.txt |
-| **Desktop** | C#, .NET 8, WinUI 3, EF Core, MVVM |
+| **Desktop** | C#, .NET 8, WinUI 3, MVVM |
 | **3D and creative** | Three.js, React Three Fiber, Drei, Rapier physics, Framer Motion, Blender (learning), GSAP (exploring) |
 | **Security** | Penetration testing, Burp Suite, Wireshark, phishing simulations, mobile device security testing, web app vulnerability assessment |
-| **DevOps and tools** | Git, GitHub, GitHub Actions, CI/CD, Vite, Postman, Figma, Flutter, Hostinger, Vercel |
+| **DevOps and tools** | Git, GitHub, GitHub Actions, CI/CD, Docker, Vite, Postman, Figma, Flutter, Hostinger, Vercel |
 
 <details>
 <summary align="center"><b>⬡ Tech stack icons</b></summary>
@@ -204,7 +204,7 @@ A free fitness app to plan workouts, log sets and reps, and track nutrition and 
 </td>
 <td valign="top" width="50%">
 <b>MarketLink Farmers Market Platform</b><br/>
-Connects local farmers with customers. Browse markets on a map, pre-order produce and pick it up in person, with farmer and admin dashboards. Built with React, Tailwind CSS, Zustand, TanStack Query, Express and MongoDB.<br/><br/>
+Connects local farmers with customers. Browse markets on a map, pre-order produce and pick it up in person, with farmer and admin dashboards and an integrated AI chatbot. Built with React, Tailwind CSS, Zustand, TanStack Query, Express and MongoDB.<br/><br/>
 <a href="https://marketlink-eta.vercel.app/">Live site</a> | <a href="https://github.com/x-hamza47/marketlink">Source code</a>
 </td>
 </tr>
@@ -227,7 +227,7 @@ An offline-first Windows point of sale app with services, orders, checkout, rece
 </td>
 <td valign="top" width="50%">
 <b>AI chatbot and integration work</b><br/>
-Chat assistants and AI-powered features built into web apps. Ask me for examples through my <a href="https://hamzaamir-portfolio.web.app/projects">portfolio</a> or <a href="https://www.fiverr.com/hamzaamirdev">Fiverr</a>.
+Chat assistants and AI-powered features built into web apps, like the chatbot inside MarketLink. Ask me for more examples through my <a href="https://hamzaamir-portfolio.web.app/projects">portfolio</a> or <a href="https://www.fiverr.com/hamzaamirdev">Fiverr</a>.
 </td>
 </tr>
 </table>
