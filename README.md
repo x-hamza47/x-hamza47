@@ -1,25 +1,43 @@
 <div align="center">
 
-<img src="./assets/hud.svg" width="100%" alt="Hamza Aamir - Full-Stack Software Engineer from Karachi, Pakistan"/>
+<img src="./assets/hud.svg" width="100%" alt="Hamza Aamir, full stack software engineer in Karachi, Pakistan"/>
 
 </div>
 
 # Hamza Aamir
 
-### Full-Stack Software Engineer in Karachi, Pakistan | React · Node.js · Express.js · Laravel · Three.js
+### Full Stack Software Engineer and Cybersecurity Researcher
+**React, Node.js, Express.js, Laravel, Next.js, AI chatbots, Three.js and ethical hacking**
 
-Hi, I'm **Hamza Aamir**, a full-stack software engineer and web developer from Karachi, Pakistan. I build full-stack web applications with the MERN stack (MongoDB, Express.js, React, Node.js) and Laravel, and I create interactive 3D experiences for the browser with Three.js and React Three Fiber. I'm also learning cybersecurity fundamentals so I can build safer applications.
+Hi, I'm **Hamza Aamir**, a full stack developer from Karachi with 4+ years of hands-on experience. I build web apps with React, Node.js, MongoDB and Laravel, add AI chatbots and smart features to real products, ship offline-first Windows software in C# and .NET 8, and make interactive 3D scenes for the browser with Three.js. I am also an ethical hacker and cybersecurity researcher, so I know how apps get broken and how to build them so they don't.
 
-🌐 **Portfolio:** [hamzaamir-portfolio.web.app](https://hamzaamir-portfolio.web.app)
-📧 **Email:** [hamzaamir72007@gmail.com](mailto:hamzaamir72007@gmail.com)
+I work remotely with clients in any time zone, and I care most about clean code, clear communication and software that simply works.
 
 <div align="center">
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-hamzaamir--portfolio.web.app-0a0508?style=for-the-badge&logo=firefox&logoColor=D4506E)](https://hamzaamir-portfolio.web.app)
+[![Fiverr](https://img.shields.io/badge/HIRE_ME_ON-FIVERR-0a0508?style=for-the-badge&logo=fiverr&logoColor=D4506E)](https://www.fiverr.com/hamzaamirdev)
+[![LinkedIn](https://img.shields.io/badge/CONNECT_ON-LINKEDIN-0a0508?style=for-the-badge&logo=linkedin&logoColor=D4506E)](https://www.linkedin.com/in/hamza-aamir-dev/)
+[![CV](https://img.shields.io/badge/DOWNLOAD-CV_PDF-0a0508?style=for-the-badge&logo=adobeacrobatreader&logoColor=D4506E)](https://hamzaamir-portfolio.web.app/Hamza-Aamir-CV.pdf)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=x-hamza47&color=a3203f&style=flat&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/x-hamza47?style=flat&color=a3203f&labelColor=0a0508&label=FOLLOWERS)
 ![Stars](https://img.shields.io/github/stars/x-hamza47?style=flat&color=a3203f&labelColor=0a0508&label=STARS)
 
 </div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%"><h3>4+</h3>years of experience</td>
+<td align="center" width="33%"><h3>4</h3>live sites you can open today</td>
+<td align="center" width="33%"><h3>End to end</h3>from planning to deployment and SEO</td>
+</tr>
+</table>
+
+**Portfolio:** [hamzaamir-portfolio.web.app](https://hamzaamir-portfolio.web.app)
+**Fiverr:** [fiverr.com/hamzaamirdev](https://www.fiverr.com/hamzaamirdev)
+**LinkedIn:** [linkedin.com/in/hamza-aamir-dev](https://www.linkedin.com/in/hamza-aamir-dev/)
+**Email:** [hamzaamir72007@gmail.com](mailto:hamzaamir72007@gmail.com)
 
 ---
 
@@ -29,14 +47,9 @@ Hi, I'm **Hamza Aamir**, a full-stack software engineer and web developer from K
 
 </div>
 
-I enjoy building products end to end: React interfaces, Node.js and Express APIs, MongoDB and MySQL databases, and Laravel back ends. I completed the MERN stack and I'm now going deeper into Next.js, TypeScript and real-time 3D on the web.
+I like building products from start to finish: the React interface, the Node.js or Laravel back end, the database, and the AI or SEO work that makes the product stand out. I have delivered CMS platforms, review directories, a farmers market marketplace, an e-commerce store, admin dashboards and a salon POS desktop app.
 
-- **Full-stack web development** with React, Node.js, Express.js, MongoDB, Laravel and MySQL
-- **Interactive 3D web experiences** with Three.js, React Three Fiber, Drei and Rapier physics
-- **Creative technology**: animation, motion and playful interaction in the browser
-- **Cybersecurity fundamentals**: learning how web apps are attacked so I can defend them better
-
-Open to freelance projects, collaborations and software engineering roles.
+Right now I am going deeper into advanced 3D on the web and Blender. I am open to freelance projects, collaborations and software engineering roles.
 
 <div align="center">
 
@@ -44,11 +57,46 @@ Open to freelance projects, collaborations and software engineering roles.
 
 </div>
 
-<!-- <div align="center">
-<a href="https://hamzaamir-portfolio.web.app/resume.pdf">
-  <img src="./assets/dossier.svg" width="100%" alt="Download Hamza Aamir's resume (PDF)"/>
-</a>
-</div> -->
+---
+
+<div align="center">
+
+## ⬡ What I Can Build For You
+
+</div>
+
+<table>
+<tr>
+<td valign="top" width="33%">
+<b>Custom web applications</b><br/>
+Full stack apps with React, Node.js, Express and MongoDB, or Laravel and MySQL, from first plan to deployment.
+</td>
+<td valign="top" width="33%">
+<b>AI chatbots and integrations</b><br/>
+Chat assistants for websites and apps, connected to AI APIs and to your own content and workflows.
+</td>
+<td valign="top" width="33%">
+<b>CMS and directory platforms</b><br/>
+Laravel content systems, admin dashboards, blogs and review sites that are easy for a team to manage.
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+<b>Technical SEO</b><br/>
+Dynamic metadata, Schema.org markup, XML sitemaps, clean URLs and image optimization.
+</td>
+<td valign="top" width="33%">
+<b>REST APIs and databases</b><br/>
+Authentication, validation and a clean data layer you can keep building on.
+</td>
+<td valign="top" width="33%">
+<b>Windows desktop software</b><br/>
+Offline-first C# and .NET 8 apps with a local database, receipts and reporting.
+</td>
+</tr>
+</table>
+
+Want to talk about your idea? [Message me on Fiverr](https://www.fiverr.com/hamzaamirdev) or [send an email](mailto:hamzaamir72007@gmail.com).
 
 ---
 
@@ -56,17 +104,21 @@ Open to freelance projects, collaborations and software engineering roles.
 
 ## ⬡ Technical Skills
 
-<img src="./assets/neural.svg" width="100%" alt="Skill network: React, Node.js, Laravel, Three.js, MongoDB, MySQL and more"/>
+<img src="./assets/neural.svg" width="100%" alt="Skill network: React, Node.js, Laravel, Next.js, Three.js, MongoDB, MySQL and more"/>
 
 </div>
 
 | Area | Technologies |
 |---|---|
 | **Languages** | HTML5, CSS3, JavaScript, TypeScript, PHP, C#, Dart, SQL |
-| **Frontend** | React.js, Next.js *(learning)*, Tailwind CSS, Bootstrap, jQuery, AJAX, Zustand, TanStack Query, React Hook Form, Zod |
-| **Backend** | Node.js, Express.js, Laravel, REST APIs, MongoDB, MySQL, Firebase |
-| **3D & creative** | Three.js, React Three Fiber, Drei, Rapier physics, Blender *(learning)*, Framer Motion, GSAP *(exploring)* |
-| **Tools & other** | Git, GitHub, GitHub Actions, CI/CD fundamentals, Vite, .NET 8, WinUI 3, Flutter |
+| **Frontend** | React.js, Next.js, Tailwind CSS, Bootstrap, jQuery, AJAX, Zustand, TanStack Query, React Hook Form, Zod |
+| **Backend** | Node.js, Express.js, Laravel, REST APIs, Mongoose, MongoDB, MySQL, SQLite, Microsoft SQL Server, Firebase |
+| **AI** | AI chatbots, AI API integration, prompt design, conversational interfaces |
+| **SEO** | Technical SEO, Schema.org, dynamic metadata, XML sitemaps, robots.txt |
+| **Desktop** | C#, .NET 8, WinUI 3, EF Core, MVVM |
+| **3D and creative** | Three.js, React Three Fiber, Drei, Rapier physics, Framer Motion, Blender (learning), GSAP (exploring) |
+| **Security** | Penetration testing, Burp Suite, Wireshark, phishing simulations, mobile device security testing, web app vulnerability assessment |
+| **DevOps and tools** | Git, GitHub, GitHub Actions, CI/CD, Vite, Postman, Figma, Flutter, Hostinger, Vercel |
 
 <details>
 <summary align="center"><b>⬡ Tech stack icons</b></summary>
@@ -111,25 +163,110 @@ Open to freelance projects, collaborations and software engineering roles.
 
 <div align="center">
 
+## ⬡ Cybersecurity and Ethical Hacking
+
+</div>
+
+I am also an ethical hacker and cybersecurity researcher. I test web apps, networks and devices with permission, find the weak spots before attackers do, and bring that mindset into every app I build.
+
+<div align="center">
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0a0508?style=for-the-badge&logo=burpsuite&logoColor=D4506E)
+![Wireshark](https://img.shields.io/badge/Wireshark-0a0508?style=for-the-badge&logo=wireshark&logoColor=D4506E)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-0a0508?style=for-the-badge&logo=hackthebox&logoColor=D4506E)
+![Security Research](https://img.shields.io/badge/Security_Research-0a0508?style=for-the-badge&logo=letsdefend&logoColor=D4506E)
+
+</div>
+
+<table>
+<tr>
+<td valign="top" width="25%"><b>Web app testing</b><br/>Intercepting and testing requests and finding vulnerabilities with Burp Suite.</td>
+<td valign="top" width="25%"><b>Network analysis</b><br/>Inspecting traffic and protocols with Wireshark.</td>
+<td valign="top" width="25%"><b>Phishing simulations</b><br/>Awareness exercises that show how social engineering works.</td>
+<td valign="top" width="25%"><b>Mobile device security</b><br/>Testing how phones can be remotely controlled and how to defend them.</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
 ## ⬡ Featured Projects
 
 </div>
 
-### Forge: Fitness Tracker
-An interactive, dark-themed fitness tracking app with 3D gym visuals, built with **React, TypeScript and Vite**. It is my testing ground for Three.js, React Three Fiber and Rapier physics.
-[Repository](https://github.com/x-hamza47/fitness-tracker)
+<table>
+<tr>
+<td valign="top" width="50%">
+<b>Forge Fitness Tracker</b><br/>
+A free fitness app to plan workouts, log sets and reps, and track nutrition and progress. Built with React, TypeScript, Node.js, Express and MongoDB.<br/><br/>
+<a href="https://forge-fitness-tracker-sigma.vercel.app/">Live site</a> | <a href="https://github.com/x-hamza47/fitness-tracker">Source code</a>
+</td>
+<td valign="top" width="50%">
+<b>MarketLink Farmers Market Platform</b><br/>
+Connects local farmers with customers. Browse markets on a map, pre-order produce and pick it up in person, with farmer and admin dashboards. Built with React, Tailwind CSS, Zustand, TanStack Query, Express and MongoDB.<br/><br/>
+<a href="https://marketlink-eta.vercel.app/">Live site</a> | <a href="https://github.com/x-hamza47/marketlink">Source code</a>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+<b>Blue Orbit CMS Platform</b><br/>
+A config-driven Laravel CMS with reusable page components, a full blog system, drag and drop section ordering and an Editor.js editor, built with complete technical SEO.<br/><br/>
+<a href="https://blueorbitdigitalagency.com/">Live site</a>
+</td>
+<td valign="top" width="50%">
+<b>Top Firms Reviewer</b><br/>
+A directory where service companies register, build a profile and get reviewed, with a built-in blog. Built with Laravel, MySQL and Schema.org, with a fully optimized technical SEO setup.<br/><br/>
+<a href="https://topfirmsreviewer.com/">Live site</a>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+<b>Salon POS Desktop App</b><br/>
+An offline-first Windows point of sale app with services, orders, checkout, receipt printing and a sales dashboard. Built with C#, .NET 8, WinUI 3, EF Core and SQLite. Client project, source code is private.
+</td>
+<td valign="top" width="50%">
+<b>AI chatbot and integration work</b><br/>
+Chat assistants and AI-powered features built into web apps. Ask me for examples through my <a href="https://hamzaamir-portfolio.web.app/projects">portfolio</a> or <a href="https://www.fiverr.com/hamzaamirdev">Fiverr</a>.
+</td>
+</tr>
+</table>
 
-### MarketLink: eGreen Basket
-A full-stack marketplace built for the Aptech Techwiz competition with **React, Express.js and MongoDB**. It has separate workflows for farmers, administrators and customers, and a pay-at-pickup ordering model.
-[Repository](https://marketlink-eta.vercel.app/)
+**More on GitHub:**
+[Vaccination Management System](https://github.com/x-hamza47/vaccine-management-laravel) (Laravel, MySQL, Tailwind CSS),
+[Tic Tac Toe with Minimax AI](https://github.com/x-hamza47/tic-tac-toe) ([live demo](https://tic-tac-toe-three-mu-94.vercel.app)),
+[Lexio](https://github.com/x-hamza47/lexio) and
+[JS Algorithms](https://github.com/x-hamza47/js-algorithms).
 
-### Interactive 3D Portfolio
-My portfolio, built with **React, Three.js and React Three Fiber**, with 3D character animation and interactive physics experiments.
-[Live site](https://hamzaamir-portfolio.web.app) · Repository: *add link here*
+See everything on my [portfolio projects page](https://hamzaamir-portfolio.web.app/projects).
 
-### Laravel Projects
-- **Vaccination Management System**: Laravel, MySQL and Tailwind CSS platform for vaccination records, appointments and administration. [Repository](https://github.com/x-hamza47/vaccine-management-laravel)
-- **Tic Tac Toe**: responsive browser game in HTML, CSS and JavaScript. [Repository](https://github.com/x-hamza47/tic-tac-toe) · [Live demo](https://tic-tac-toe-three-mu-94.vercel.app)
+---
+
+<div align="center">
+
+## ⬡ Experience
+
+</div>
+
+<table>
+<tr>
+<td valign="top" width="33%">
+<b>Freelance Software Developer</b><br/>
+Self-employed, May 2026 to Jul 2026<br/><br/>
+Built an offline-first Windows POS app for a salon with authentication, order processing, receipt printing and a sales dashboard.
+</td>
+<td valign="top" width="33%">
+<b>Full Stack Developer</b><br/>
+Blue Orbit Digital Agency, Mar 2026 to Jun 2026<br/><br/>
+Built reusable CMS components, a blog system and a config-driven section engine in Laravel, and handled the technical SEO.
+</td>
+<td valign="top" width="33%">
+<b>Remote Website Developer</b><br/>
+Top Firms Reviewer, Nov 2025 to Mar 2026<br/><br/>
+Built a Laravel directory and review platform with company dashboards, full technical SEO and Hostinger deployment.
+</td>
+</tr>
+</table>
 
 ---
 
@@ -139,11 +276,12 @@ My portfolio, built with **React, Three.js and React Three Fiber**, with 3D char
 
 </div>
 
-- **Next.js**: building a new portfolio to deploy on Vercel
-- **Advanced 3D web development**: React Three Fiber, Drei and shaders
-- **Browser physics**: Rapier
-- **CI/CD**: automated builds, tests and deployments with GitHub Actions
-- **Blender**: modelling and preparing assets for the web
+<table>
+<tr>
+<td valign="top" width="50%"><b>Advanced 3D on the web</b><br/>React Three Fiber, Drei and custom shaders</td>
+<td valign="top" width="50%"><b>Blender</b><br/>Modelling and preparing 3D assets for the web</td>
+</tr>
+</table>
 
 ---
 
@@ -167,19 +305,23 @@ My portfolio, built with **React, Three.js and React Three Fiber**, with 3D char
 
 <div align="center">
 
-## ⬡ Contact
+## ⬡ Let's Connect
+
+Have a project in mind or a role to fill? I'd love to hear about it.
 
 <a href="https://hamzaamir-portfolio.web.app"><img src="https://img.shields.io/badge/PORTFOLIO-0a0508?style=for-the-badge&logo=firefox&logoColor=D4506E" alt="Hamza Aamir portfolio"/></a>
-<a href="https://github.com/x-hamza47"><img src="https://img.shields.io/badge/GITHUB-0a0508?style=for-the-badge&logo=github&logoColor=D4506E" alt="Hamza Aamir on GitHub"/></a>
+<a href="https://www.fiverr.com/hamzaamirdev"><img src="https://img.shields.io/badge/FIVERR-0a0508?style=for-the-badge&logo=fiverr&logoColor=D4506E" alt="Hire Hamza Aamir on Fiverr"/></a>
 <a href="https://www.linkedin.com/in/hamza-aamir-dev/"><img src="https://img.shields.io/badge/LINKEDIN-0a0508?style=for-the-badge&logo=linkedin&logoColor=D4506E" alt="Hamza Aamir on LinkedIn"/></a>
+<a href="https://github.com/x-hamza47"><img src="https://img.shields.io/badge/GITHUB-0a0508?style=for-the-badge&logo=github&logoColor=D4506E" alt="Hamza Aamir on GitHub"/></a>
 <a href="mailto:hamzaamir72007@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0a0508?style=for-the-badge&logo=gmail&logoColor=D4506E" alt="Email Hamza Aamir"/></a>
 <br/>
 <a href="http://www.instagram.com/x_hamza47"><img src="https://img.shields.io/badge/INSTAGRAM-0a0508?style=for-the-badge&logo=instagram&logoColor=D4506E" alt="Hamza Aamir on Instagram"/></a>
 <a href="https://www.x.com/@_hamza47"><img src="https://img.shields.io/badge/X-0a0508?style=for-the-badge&logo=x&logoColor=D4506E" alt="Hamza Aamir on X"/></a>
+<a href="https://www.facebook.com/hamza.aamir.47/"><img src="https://img.shields.io/badge/FACEBOOK-0a0508?style=for-the-badge&logo=facebook&logoColor=D4506E" alt="Hamza Aamir on Facebook"/></a>
 <a href="https://discord.com/users/x_hamza47"><img src="https://img.shields.io/badge/DISCORD-0a0508?style=for-the-badge&logo=discord&logoColor=D4506E" alt="Hamza Aamir on Discord"/></a>
 
 </div>
 
 <br/>
 
-<img src="./assets/footer.svg" width="100%" alt="Hamza Aamir - Full-Stack Software Engineer, Karachi, Pakistan"/>
+<img src="./assets/footer.svg" width="100%" alt="Hamza Aamir, full stack software engineer in Karachi, Pakistan"/>
