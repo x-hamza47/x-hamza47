@@ -315,8 +315,8 @@ Have a project in mind or a role to fill? I'd love to hear about it.
 <a href="https://github.com/x-hamza47"><img src="https://img.shields.io/badge/GITHUB-0a0508?style=for-the-badge&logo=github&logoColor=D4506E" alt="Hamza Aamir on GitHub"/></a>
 <a href="mailto:hamzaamir72007@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0a0508?style=for-the-badge&logo=gmail&logoColor=D4506E" alt="Email Hamza Aamir"/></a>
 <br/>
-<a href="http://www.instagram.com/x_hamza47"><img src="https://img.shields.io/badge/INSTAGRAM-0a0508?style=for-the-badge&logo=instagram&logoColor=D4506E" alt="Hamza Aamir on Instagram"/></a>
-<a href="https://www.x.com/@_hamza47"><img src="https://img.shields.io/badge/X-0a0508?style=for-the-badge&logo=x&logoColor=D4506E" alt="Hamza Aamir on X"/></a>
+<a href="https://www.instagram.com/hamza_aamir_dev/"><img src="https://img.shields.io/badge/INSTAGRAM-0a0508?style=for-the-badge&logo=instagram&logoColor=D4506E" alt="Hamza Aamir on Instagram"/></a>
+<a href="https://x.com/hamzaAamir47"><img src="https://img.shields.io/badge/X-0a0508?style=for-the-badge&logo=x&logoColor=D4506E" alt="Hamza Aamir on X"/></a>
 <a href="https://www.facebook.com/hamza.aamir.47/"><img src="https://img.shields.io/badge/FACEBOOK-0a0508?style=for-the-badge&logo=facebook&logoColor=D4506E" alt="Hamza Aamir on Facebook"/></a>
 <a href="https://discord.com/users/x_hamza47"><img src="https://img.shields.io/badge/DISCORD-0a0508?style=for-the-badge&logo=discord&logoColor=D4506E" alt="Hamza Aamir on Discord"/></a>
 
