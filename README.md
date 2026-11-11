@@ -6,7 +6,7 @@
 
 # Hamza Aamir
 
-### Full Stack Software Engineer and Cybersecurity Researcher
+### Full Stack Software Engineer & Cybersecurity Enthusiast
 **React, Angular, Node.js, Laravel, ASP.NET, AI chatbots, Three.js and ethical hacking**
 
 Hi, I'm **Hamza Aamir**, a full stack developer from Karachi with 4+ years of hands-on experience. I build web apps and APIs with React, Angular, Node.js, Laravel and ASP.NET, work with every major database (SQL Server, PostgreSQL, MySQL, SQLite and MongoDB), add AI chatbots and workflow automation to real products, ship Windows software in C# and .NET 8, and make interactive 3D scenes for the browser with Three.js. I am also an ethical hacker and cybersecurity researcher, so I know how apps get broken and how to build them so they don't.
@@ -36,6 +36,8 @@ I work remotely with clients in any time zone, and I care most about clean code,
 **Portfolio:** [hamzaamir-portfolio.web.app](https://hamzaamir-portfolio.web.app)
 **Fiverr:** [fiverr.com/hamzaamirdev](https://www.fiverr.com/hamzaamirdev)
 **LinkedIn:** [linkedin.com/in/hamza-aamir-dev](https://www.linkedin.com/in/hamza-aamir-dev/)
+**Instagram:** [instagram.com/hamza_aamir_dev](https://www.instagram.com/hamza_aamir_dev/)
+**X:** [x.com/hamzaAamir47](https://x.com/hamzaAamir47)
 **Email:** [hamzaamir72007@gmail.com](mailto:hamzaamir72007@gmail.com)
 
 ---
